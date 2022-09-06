@@ -1,19 +1,21 @@
-# JavaScript Password Generate
+# About the project
 
-Este pequeno projeto consiste em um formulário que dá opção ao usuário de gerar uma senha segura através de funções javascript.
+This small project consists of a form that gives the option to the user to generate a secure password through javascript functions.
 
-# Imagens do projeto funcionando:
+Link to the web application in production : https://wfilho91.github.io/javascript-password-generate/
+
+# Project images working:
 
 ![](https://github.com/wfilho91/javascript-password-generate/blob/main/img/desk1.png)
 ![](https://github.com/wfilho91/javascript-password-generate/blob/main/img/desk2.png)
 
-# Tecnologias utilizadas
+# Technologies used
 
 - HTML5
 - CSS3
 - JavaScript
 
-# Autor
+# Author
 
 Wellington Filho
 
